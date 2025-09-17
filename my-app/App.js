@@ -23,7 +23,7 @@ import ActivityScreen from "./ActivityScreen";
 import ForgotPasswordScreen from "./ForgotPasswordScreen";
 import OTPVerificationScreen from "./OTPVerificationScreen";
 import ResetPasswordScreen from "./ResetPasswordScreen";
-
+//อิอิซ่า
 // Tab Navigator
 const Tab = createBottomTabNavigator();
 
